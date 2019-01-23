@@ -9,6 +9,7 @@ title:            Alex U.
 tagline:          'Lost in CS'
 description:      'Words on a screen...'
 url:              https://ungurianu.com
+baseurl:          '/'
 
 author:
   name:           'Alex Ungurianu'
